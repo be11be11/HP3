@@ -99,7 +99,7 @@
   .dbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #10B10C10; 
   background-image: url("jpg 店内 image 3.JPG"); 
   background-repeat: no-repeat;
@@ -113,6 +113,7 @@
   position: relative;
 } 
 .textinbox {
+  width: 40%; 
   border:1px solid #10B5C5; 
   position: absolute;
   top: 50px;
@@ -219,7 +220,7 @@
   .dbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg 店内 image 3.JPG"); 
   background-repeat: no-repeat;
@@ -233,6 +234,7 @@
   position: relative;
 } 
 .textinbox {
+  width: 40%; 
   border:1px solid #10B5C5; 
   position: absolute;
   top: 50px;
@@ -360,6 +362,7 @@
   position: relative;
 } 
 .textinbox {
+  width: 40%; 
   border:1px solid #10B5C5; 
   position: absolute;
   top: 50px;
