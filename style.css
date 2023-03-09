@@ -42,6 +42,7 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
+  z-index: -10;
 }
 
 .box .ヘア1 {
@@ -161,6 +162,7 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
+  z-index: -10;
 }
 
 .box .ヘア1 {
@@ -280,6 +282,7 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
+  z-index: -10;
 }
 
 .box .ヘア1 {
