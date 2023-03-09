@@ -8,7 +8,6 @@
   position: relative; /* 基準位置とする */
 }
   
-  
    .minibox {
   margin: 0px;
   width: 100%; 
@@ -43,7 +42,6 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
-  z-index: -10;
 }
 
 .box .ヘア1 {
@@ -52,12 +50,12 @@
   left: 0;
 }
 .box .ヘア2 {
-  /* 左下に固定 */
+  /* 右下に固定 */
   bottom: -5px;
   left: 90px;
 }
   .box .ヘア3 {
-  /* 右上に固定 */
+  /* 右下に固定 */
   top: 0;
   right: 90px;
 }
@@ -122,7 +120,7 @@
 }
 
 @media screen and (min-width:501px) and (max-width:1400px){
-  .box {
+   .box {
   border:1px solid #40B20C10; 
   width: 100%;       /* 適当な幅を指定 */
   height: 750px;       /* 適当な高さを指定 */
@@ -163,7 +161,6 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
-  z-index: -10;
 }
 
 .box .ヘア1 {
@@ -172,20 +169,20 @@
   left: 0;
 }
 .box .ヘア2 {
-  /* 左下に固定 */
+  /* 右下に固定 */
   bottom: -5px;
-  left: 90px;
+  left: 200px;
 }
   .box .ヘア3 {
-  /* 右上に固定 */
+  /* 右下に固定 */
   top: 0;
-  right: 90px;
+  right: 200px;
 }
  .box .ヘア4 {
   /* 右下に固定 */
   bottom: -5px;
   right: 0;
- }  
+} 
 
  .abox {
   margin: 5px;
@@ -248,14 +245,7 @@
   height: 1000px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
 }
-
-  .righttextbox {
-  border:1px solid #40B20C10; 
-  width: 100%;      
-  height: 750px;     
-  position: 
-}
-  
+   
    .minibox {
   margin: 0px;
   width: 100%; 
@@ -290,7 +280,6 @@
   border:1px solid #10B5C5; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
-  z-index: -10;
 }
 
 .box .ヘア1 {
@@ -299,20 +288,20 @@
   left: 0;
 }
 .box .ヘア2 {
-  /* 左下に固定 */
+  /* 右下に固定 */
   bottom: -5px;
-  left: 90px;
+  left: 350px;
 }
   .box .ヘア3 {
-  /* 右上に固定 */
+  /* 右下に固定 */
   top: 0;
-  right: 90px;
+  right: 350px;
 }
  .box .ヘア4 {
   /* 右下に固定 */
   bottom: -5px;
   right: 0;
- }  
+} 
    
   .abox {
   margin: 5px;
@@ -345,8 +334,8 @@
 
   .dbox {
   margin: 5px;
-  width: 45%; 
-  height: auto; 
+  width: 30%; 
+  height: 500px; 
   border:1px solid #93B4C4; 
   background-image: url("jpg 店内 image 3.JPG"); 
   background-repeat: no-repeat;
