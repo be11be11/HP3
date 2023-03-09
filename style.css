@@ -69,18 +69,17 @@
    
    .abox {
   margin: 5px;
-  width: 30%; 
-  height: 500px; 
+  width: 70%; 
+  height: auto; 
   border:1px solid #40B4C4; 
   background-image: url("jpg 店内 image 2.JPG"); 
   background-repeat: no-repeat;
   background-size: contain;
-}
 
   .bbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #30B3C3; 
   background-image: url("jpg メニュー image 1.jpg"); 
   background-repeat: no-repeat;
@@ -89,7 +88,7 @@
   .cbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #20B2C2; 
   background-image: url("jpg emiko image 1.JPG"); 
   background-repeat: no-repeat;
@@ -98,7 +97,7 @@
 
   .dbox {
   margin: 5px;
-  width: 30%; 
+  width: 70%; 
   height: auto; 
   border:1px solid #10B10C10; 
   background-image: url("jpg 店内 image 3.JPG"); 
@@ -190,8 +189,8 @@
 
  .abox {
   margin: 5px;
-  width: 30%; 
-  height: 500px; 
+  width: 70%; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg 店内 image 2.JPG"); 
   background-repeat: no-repeat;
@@ -201,7 +200,7 @@
   .bbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg メニュー image 1.jpg"); 
   background-repeat: no-repeat;
@@ -210,7 +209,7 @@
   .cbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg emiko image 1.JPG"); 
   background-repeat: no-repeat;
@@ -219,7 +218,7 @@
 
   .dbox {
   margin: 5px;
-  width: 30%; 
+  width: 45%; 
   height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg 店内 image 3.JPG"); 
@@ -318,8 +317,8 @@
    
   .abox {
   margin: 5px;
-  width: 30%; 
-  height: 500px; 
+  width: 70%; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg 店内 image 2.JPG"); 
   background-repeat: no-repeat;
@@ -329,7 +328,7 @@
   .bbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg メニュー image 1.jpg"); 
   background-repeat: no-repeat;
@@ -338,7 +337,7 @@
   .cbox {
   margin: 5px;
   width: 30%; 
-  height: 500px; 
+  height: auto; 
   border:1px solid #93B4C4; 
   background-image: url("jpg emiko image 1.JPG"); 
   background-repeat: no-repeat;
