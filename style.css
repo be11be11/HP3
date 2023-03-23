@@ -2,7 +2,8 @@
 
 @media screen and (min-width:10px) and (max-width:500px){
   .box {
-　line-height: 1px;
+　font-size: 10px 
+　line-height: 30%;
   border:2px solid lime; 
   width: 100%;       /* 適当な幅を指定 */
   height: 350px;       /* 適当な高さを指定 */
@@ -10,7 +11,8 @@
 }
 
 .box>div{
-    line-height: 1px;
+    font-size: 10px 
+  　line-height: 30%;
     display: block;
     height: 345px;
     border:1px solid #D49999; 
@@ -119,19 +121,22 @@
 
    /* テキスト右寄*/
 .textbox {
-  line-height: 1px;
+  font-size: 10px 
+　line-height: 30%;
   border:1px solid plum; 
   width: 100%;      
   position: relative;
 } 
 .textinbox {
+  font-size: 10px 
+　line-height: 30%;
+  display: block;
   border:1px solid cyan; 
 　 width: 35%;
   position: absolute;
   top: 50px;
   right: 50px;
   display: block;
-  line-height: 1px;
 }     
   
 }
