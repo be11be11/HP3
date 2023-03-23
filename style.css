@@ -2,8 +2,6 @@
 
 @media screen and (min-width:10px) and (max-width:500px){
   .box {
-　font-size: 5px 
-　line-height: 30%;
   border:2px solid lime; 
   width: 100%;       /* 適当な幅を指定 */
   height: 350px;       /* 適当な高さを指定 */
@@ -118,8 +116,6 @@
 
    /* テキスト右寄*/
 .textbox {
-  font-size: 10px 
-　line-height: 30%;
   border:1px solid plum; 
   width: 100%;      
   position: relative;
