@@ -44,11 +44,11 @@
   
    p {
   text-align:center; 
-  line-height: 60px;
+  line-height: 35%;
 }
   
    .fixed p {
-  line-height: 20px;
+  line-height: 20%;
 }
 
 /* 共通するCSS */
