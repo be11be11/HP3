@@ -10,14 +10,15 @@
 
  .box>div {
     height: 345px;
-    border:1px solid #D49999; 
-    background-color:rgba(0,250,200,0.2);
+    border:1px solid teal; 
+    background-color:rgba(200,150,50,0.2);
+　　display: flex;
 }    
    .sikiri {
   border:2px solid violet; 
   margin: 1px;
   width: 100%;       /* 適当な幅を指定 */
-  height: 350px;       /* 適当な高さを指定 */
+  height: 75px;       /* 適当な高さを指定 */
   position: relative; /* 基準位置とする */
 }
      
@@ -42,16 +43,16 @@
   
    p {
   text-align:center; 
-  line-height: 35%;
+  line-height: 90%;
 }
   
    .fixed p {
-  line-height: 20%;
+  line-height: 85%;
 }
 
 /* 共通するCSS */
 .box img {
-  border:1px solid bule; 
+  border:1px solid aqua; 
   width: 25%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
   z-index: -10;
@@ -91,7 +92,7 @@
 /* 左寄せ共通するCSS */
 .inbox img {
   border:1px solid orange; 
-  width: 25%;       /* 適当な幅を指定 */
+  width: 35%;       /* 適当な幅を指定 */
   position: absolute; /* 相対位置に指定 */
 }
 
@@ -120,12 +121,15 @@
   width: 100%;      
   position: relative;
 } 
-.textinbox {
-  border:1px solid cyan; 
-　 width: 35%;
+ .box>div>textinbox {
+  border:1px solid orange; 
+　 width: 135px;
   position: absolute;
-  top: 50px;
-  right: 50px;
+  top: 10px;
+  right: 10px;
+　line-height: 85%;
+　verflow-wrap: break-word;
+　text-align: start;
 }     
   
 }
