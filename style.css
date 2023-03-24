@@ -9,7 +9,7 @@
 }
 
  .box>div {
-    height: 345px;
+    height: 85%;
     border:1px solid teal; 
     background-color:rgba(200,150,50,0.2);
 　　display: flex;
@@ -123,6 +123,7 @@
 } 
  .box>div>textinbox {
   border:1px solid orange; 
+   background-color:rgba(250,150,0,0.2);
 　 width: 20%;
   position: absolute;
   top: 10px;
