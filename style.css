@@ -29,7 +29,7 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box6 img{
   border:2px solid blue;
   position: absolute;
-  width: 40%;
+  width: 50%;
 　margin-right: auto;
 }
 
@@ -40,7 +40,7 @@ p.text7 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50,
 .box8 img{
   border:2px solid blue;
   position: absolute;
-  width: 40%;
+  width: 50%;
   margin-right: auto;
 }
 
@@ -51,7 +51,7 @@ p.text9 {border:2px solid blue; width: 50%; background-color: rgba(0, 200, 100, 
 .box10 img{
   border:2px solid blue;
   position: absolute;
-  width: 40%;
+  width: 50%;
 　margin-right: auto;
 }
 
