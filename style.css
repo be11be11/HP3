@@ -26,11 +26,38 @@ p.text4 {border:2px solid orange; width: 90%; background-color: rgba(250, 100, 5
 .box5 .店内2 {
  margin: auto;
 }
-div.box6 {border:2px solid lime; width: 50%; background-color: rgba(0, 200, 100, 0.3); margin-right: auto; }
+.box6 img{
+  border:2px solid blue;
+  position: absolute;
+  width: 50%;
+　margin: auto;
+}
+
+.box6 .メニュー1 {
+ margin: auto;
+}
 p.text7 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
-div.box8 {border:2px solid orange; width: 50%; background-color: rgba(200, 0, 50, 0.3); margin-right: auto; }
+.box8 img{
+  border:2px solid blue;
+  position: absolute;
+  width: 50%;
+　margin: auto;
+}
+
+.box8 .emiko1 {
+ margin: auto;
+}
 p.text9 {border:2px solid blue; width: 50%; background-color: rgba(0, 200, 100, 0.3); margin-left: auto; }
-div.box10 {border:2px solid lime; width: 50%; background-color: rgba(200, 0, 50, 0.3); margin-right: auto; }
+.box10 img{
+  border:2px solid blue;
+  position: absolute;
+  width: 50%;
+　margin: auto;
+}
+
+.box10 .店内3 {
+ margin: auto;
+}
 p.text11 {border:2px solid pink; width: 50%; background-color: rgba(250, 100, 50, 0.3); margin-left: auto; }
 
 }  
